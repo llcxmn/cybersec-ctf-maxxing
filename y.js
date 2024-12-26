@@ -1,1 +1,1 @@
-alert(0)
+function myFunction() { alert("I am an alert box!"); 
