@@ -1,1 +1,1 @@
-alert(0)
+window.alert(0)
