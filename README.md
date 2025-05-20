@@ -1,7 +1,7 @@
 
-# llcxmn's CTF Portfolio
+# llcxmn's CTF history
 
-Welcome to my personal **CTF Portfolio**, where I document and showcase my Capture the Flag challenges, solutions, and technical growth. This repository serves as both a record of my problem-solving journey and a demonstration of skills for prospective collaborators.
+Welcome to my personal **CTF History**, where I document and showcase my Capture the Flag challenges, solutions, and technical growth. This repository serves as both a record of my problem-solving journey and a demonstration of skills
 
 ---
 
@@ -11,19 +11,19 @@ Hello! I’m **Syafran**, a cybersecurity enthusiast with a passion for reverse 
 
 - 🔭 Currently exploring advanced binary exploitation and ROP gadgets
 - 🌱 Learning modern web security frameworks and countermeasures
-- 🏆 Ranked **Top X%** in [Notable CTF Event]
 - 📫 How to reach me: aabdillah897@gmail.com
 
 ---
 
-## 🏆 Featured Challenges
+## 🏆 Featured Competition
 
-Below are some of my most notable write-ups. Each includes an in-depth analysis, code snippets, and step-by-step walkthroughs.
+Below are some of my team's write-ups. Each includes an in-depth analysis, code snippets, and step-by-step walkthroughs.
 
-| Event              | Challenge            | Category             | My Write-up                            |
-|--------------------|----------------------|----------------------|----------------------------------------|
-| picoCTF 2025       | Buffer Overflow 1    | Binary Exploitation  | [Write-up](writeups/picoCTF-2025/overflow1/README.md) |
-| Hack The Box       | Web-Exploit          | Web Security         | [Write-up](writeups/HTB/web-exploit/README.md) |
-| Google CTF 2024    | Crypto Challenge     | Cryptography         | [Write-up](writeups/GoogleCTF-2024/crypto/README.md) |
+| Event                                 | Write-up                            | Rank |
+|---------------------------------------|----------------------------------------|-----|
+| picoCTF 2025                          |[Write-up](https://github.com/gafnaa/picoctf2025-LingGanGu) | #1231 |
+| Find IT UGM 2025                      |[Write-up](https://github.com/llcxmn/cybersec-ctf-maxxing/tree/main/ifest13) | #32 |
+| IFEST13 UAJY x Jogja Cyber Security   |[Write-up](https://github.com/llcxmn/cybersec-ctf-maxxing/tree/main/ligakomatik2025) | #14 |
+
 
 ---
