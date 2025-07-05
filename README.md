@@ -24,6 +24,7 @@ Below are some of my team's write-ups. Each includes an in-depth analysis, code 
 | picoCTF 2025                          |[Write-up](https://github.com/gafnaa/picoctf2025-LingGanGu) | #1231 |
 | Find IT UGM 2025                      |[Write-up](https://github.com/llcxmn/cybersec-ctf-maxxing/tree/main/ifest13) | #32 |
 | IFEST13 UAJY x Jogja Cyber Security   |[Write-up](https://github.com/llcxmn/cybersec-ctf-maxxing/tree/main/ligakomatik2025) | #14 |
+| FIT Competition   |[Write-up](https://github.com/llcxmn/cybersec-ctf-maxxing/tree/main/FIT%20Competition) | #30 |
 
 
 ---
